@@ -1,0 +1,104 @@
+originalStateVector:
+1 0 0 
+0 0 0 
+0 0 0 
+
+Current field:
+0 0
+
+Target fields:
+2 1
+1 2
+
+
+originalStateVector:
+1 0 0 
+0 0 0 
+0 1 0 
+
+Current field:
+2 1
+
+Target fields:
+0 2
+0 0
+
+
+originalStateVector:
+1 0 1 
+0 0 0 
+0 1 0 
+
+Current field:
+0 2
+
+Target fields:
+1 0
+2 1
+
+
+originalStateVector:
+1 0 1 
+1 0 0 
+0 1 0 
+
+Current field:
+1 0
+
+Target fields:
+2 2
+0 2
+
+
+originalStateVector:
+1 0 1 
+1 0 0 
+0 1 1 
+
+Current field:
+2 2
+
+Target fields:
+0 1
+1 0
+
+
+originalStateVector:
+1 1 1 
+1 0 0 
+0 1 1 
+
+Current field:
+0 1
+
+Target fields:
+2 2
+2 0
+
+
+originalStateVector:
+1 1 1 
+1 0 0 
+1 1 1 
+
+Current field:
+2 0
+
+Target fields:
+0 1
+1 2
+
+
+originalStateVector:
+1 1 1 
+1 0 1 
+1 1 1 
+
+Current field:
+1 2
+
+Target fields:
+0 0
+2 0
+
+
